@@ -1,4 +1,4 @@
-#Automated Acceptance Testing with Code Coverage
+# Automated Acceptance Testing with Code Coverage
 
 The purpose of this project is to demonstrate how coverage against BDD based acceptance tests can be achieved for both java and javascript at the same time. Code coverage is achieved using following libraries:
 
